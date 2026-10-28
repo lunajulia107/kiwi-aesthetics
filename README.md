@@ -18,7 +18,6 @@
 
 ## Em resumo
 
-| | |
 | --- | --- |
 | **O que é** | Site de um SPA com catálogo de tratamentos e agendamento online |
 | **Diferencial** | Painel administrativo para gerenciar os agendamentos |
