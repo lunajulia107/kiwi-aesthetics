@@ -1,4 +1,4 @@
-# 🥝 Kiwi Estética
+# 🥝 kiwi-aesthetics
 
 **Site da Kiwi Estética SPA**, desenvolvido com o objetivo de apresentar tratamentos naturais e terapias integrativas que promovem bem-estar, equilíbrio e autocuidado. A plataforma também inclui um **sistema administrativo para gerenciamento de agendamentos**.
 
